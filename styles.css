@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.id-card {
+    background-color: #fff;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.header h1 {
+    font-size: 24px;
+    margin: 0;
+    color: #333;
+}
+
+.content {
+    margin-top: 20px;
+}
+
+.content p {
+    margin: 8px 0;
+}
+
+.footer {
+    margin-top: 20px;
+    background-color: #333;
+    color: #fff;
+    padding: 8px;
+    border-radius: 4px;
+}
